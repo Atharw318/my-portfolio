@@ -11,7 +11,7 @@ const About = () => {
           hooked into the world of web development. Web development has never
           been "just a passion" for me.It has offered an engaging challenge to
           continuously learn and improve my skills in creating better websites
-          or web apps. I used flutter to develop android apps.
+          or web apps.
         </p>
         <p>
           What started with just a curiosity of building something has become a
