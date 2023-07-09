@@ -9,6 +9,7 @@ import ShopToBuy from "../../images/portfolio/shoptobuy.png"
 import movieInfoApp from "../../images/portfolio/MovieInfo-App.png"
 import linkedin from "../../images/portfolio/linkedIn.png"
 import snapchat from "../../images/portfolio/snapchat.png"
+import RecipeImage from "../../images/portfolio/recipe.png"
 
 
 
@@ -357,6 +358,57 @@ const Work = () => {
 
  
 </div>
+
+
+<div className="project covid-project">
+          <figure className="project__img-wrapper">
+            <a
+              href="https://cute-valkyrie-961623.netlify.app"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+             <img className="project__img" alt="recipe-app hero" src={RecipeImage} />
+             
+            </a>
+          </figure>
+
+          <div className="project__info">
+            <h5>Featured Project</h5>
+            <h4>Recipe App</h4>
+
+            <div className="project__about">
+              <p>
+              A web app for checking recipe ingredients . Browse your favorite recipe and detailed information about each recipe .
+              </p>
+            </div>
+
+            <ul>
+              <li>React</li>
+              <li>API</li>
+              <li>Css</li>
+            </ul>
+
+            <div className="project__links">
+              <a
+                href="https://github.com/Atharw318/recipe-app"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <FaGithub className="project__icon" title="Github" />
+              </a>
+              <a
+                href="https://cute-valkyrie-961623.netlify.app"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <FaExternalLinkAlt
+                  className="project__icon"
+                  title="View Project"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
 
 
 
