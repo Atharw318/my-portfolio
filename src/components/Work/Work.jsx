@@ -170,7 +170,7 @@ const Work = () => {
 
             <div className="project__links">
               <a
-                href="https://github.com/Devildk384/MovieInfo"
+                href="https://github.com/Atharw318/movieinfo"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -216,7 +216,7 @@ const Work = () => {
 
             <div className="project__links">
               <a
-                href="https://github.com/Devildk384/linkedIn-clone"
+                href="https://github.com/Atharw318/linkdin-clone"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -282,13 +282,13 @@ const Work = () => {
             </ul>
 
             <div className="project__links">
-              <a
+              {/* <a
                 href="https://github.com/Devildk384/Covid-Tracker"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 <FaGithub className="project__icon" title="Github" />
-              </a>
+              </a> */}
               <a
                 href="https://zen-brahmagupta-a1d22b.netlify.app/"
                 rel="noopener noreferrer"
@@ -325,7 +325,7 @@ const Work = () => {
 
     <div className="project__links">
       <a
-        href="https://github.com/Devildk384/snapchat-clone"
+        href="https://github.com/Atharw318/snapchat-clone"
         rel="noopener noreferrer"
         target="_blank"
       >
